@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dgmiguelangel/todo/static/css/main.328a60ae.css",
+    "main.js": "/dgmiguelangel/todo/static/js/main.1aad1f69.js",
+    "index.html": "/dgmiguelangel/todo/index.html",
+    "main.328a60ae.css.map": "/dgmiguelangel/todo/static/css/main.328a60ae.css.map",
+    "main.1aad1f69.js.map": "/dgmiguelangel/todo/static/js/main.1aad1f69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328a60ae.css",
+    "static/js/main.1aad1f69.js"
+  ]
+}
